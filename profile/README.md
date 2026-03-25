@@ -1,4 +1,21 @@
-## 🌐 Community
+## The Problem We Focus On
+
+Cybersecurity is not failing because of missing tools.
+
+It is failing because of four fundamental problems:
+
+### 1. Talent Gap
+There are not enough skilled security professionals to manage growing attack surfaces.
+
+### 2. Cost
+Security stacks are expensive, fragmented, and difficult to scale.
+
+### 3. Process
+Security workflows are manual, slow, and dependent on human intervention.
+
+### 4. Complexity
+Too many tools, too many dashboards, too many disconnected systems.
+
 
 S4E is built as an open and collaborative cybersecurity initiative.
 
